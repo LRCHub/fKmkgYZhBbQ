@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "さよなら、アリス",
+  "base_artist": "Flower",
+  "createdAt": "2026-02-21T17:00:59.855258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよなら、アリス",
+      "artist": "Flower",
+      "has_synced": false,
+      "path": "select/01_さよなら、アリス_Flower.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよなら、アリス(version2016)",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/02_さよなら、アリス(version2016)_Flower.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよなら、アリス",
+      "artist": "flower",
+      "has_synced": false,
+      "path": "select/pl_01_さよなら、アリス_flower.txt"
+    }
+  ]
+}
